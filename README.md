@@ -6,6 +6,8 @@ ___
 
 _A list of my commonly used Git commands_
 *For a Global  Config 
+  git config --global user.name "John Doe"
+  git config --global user.email johndoe@example.com
 
 --
 
