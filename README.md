@@ -5,8 +5,7 @@ it Commands
 ___
 
 _A list of my commonly used Git commands_
-
-*If you are interested in my Git aliases, have a look at my `.bash_profile`, found here: https://github.com/bharat/bash_profile/blob/master/.bash_profile*
+*For a Global  Config 
 
 --
 
@@ -64,7 +63,8 @@ _A list of my commonly used Git commands_
 
 | Command | Description |
 | ------- | ----------- |
-| `git log` | View changes |
+| `git log` | View changes 
+| `git log -p` | View changes (detailed) |
 | `git log --summary` | View changes (detailed) |
 | `git log --oneline` | View changes (briefly) |
 | `git diff [source branch] [target branch]` | Preview changes before merging |
